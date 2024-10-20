@@ -9,7 +9,6 @@ I am **Abdelrahman Gebril**, a **Senior Software Quality Control Engineer** with
 ## 🌱 **I’m currently learning:**
 - Generative AI from Scratch
 - Advanced applications of **AI/ML** in software testing
-- **Data Science** techniques for test data analysis
 
 ## 🛠️ **Skills and Tools:**
 
@@ -27,6 +26,4 @@ I am **Abdelrahman Gebril**, a **Senior Software Quality Control Engineer** with
 - GitHub: [Gebrilo](https://github.com/Gebrilo)
 - LinkedIn: [Abdelrahman Gebril](https://www.linkedin.com/in/abdelrahman-mohamed-a699ab195/)
 
----
 
-Looking forward to collaborating and contributing to exciting projects!
