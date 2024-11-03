@@ -22,6 +22,11 @@ I am **Abdelrahman Gebril**, a **Senior Software Quality Control Engineer** with
 - **AI/ML Tools**: TensorFlow, Pandas
 - **Data Science**: Data analysis, visualization, and basic modeling
 
+![Digital_Sticker_Use Gen AI for Software Development](https://github.com/user-attachments/assets/99d985e7-265e-445f-b8ca-c62d64973bbd)
+
+![Digital_Sticker_Build Your First Chatbot](https://github.com/user-attachments/assets/b795a0a9-2515-4a94-8d2a-31e75aa7569a)
+
+
 ## 📫 **How to reach me:**
 - GitHub: [Gebrilo](https://github.com/Gebrilo)
 - LinkedIn: [Abdelrahman Gebril](https://www.linkedin.com/in/abdelrahman-mohamed-a699ab195/)
