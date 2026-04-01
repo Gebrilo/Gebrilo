@@ -31,6 +31,6 @@ I am **Abdelrahman Gebril**, a **Senior Software Quality Control Engineer** with
 
 ## 📫 **How to reach me:**
 - GitHub: [Gebrilo](https://github.com/Gebrilo)
-- LinkedIn: [Abdelrahman Gebril](www.linkedin.com/in/abdelrahman-gebril-a699ab195)
+- LinkedIn: [Abdelrahman Gebril](https://www.linkedin.com/in/abdelrahman-gebril-a699ab195/)
 
 
