@@ -253,13 +253,17 @@ Root-cause analysis, reproduction, severity assessment, and fix verification.
 
 <div align="center">
 
-![Gebrilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gebrilo&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff&hide=stars&count_private=true&include_all_commits=true#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gebrilo&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&hide=stars&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gebrilo&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=434d58&ring_color=0969da&hide=stars&count_private=true&include_all_commits=true">
+  <img alt="Gebrilo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gebrilo&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=434d58&hide=stars&count_private=true&include_all_commits=true">
+</picture>
 
-![Gebrilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gebrilo&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=656d76&ring_color=0969da&hide=stars&count_private=true&include_all_commits=true#gh-light-mode-only)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gebrilo&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=6#gh-dark-mode-only)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gebrilo&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=656d76&langs_count=6#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gebrilo&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gebrilo&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&text_color=434d58&langs_count=6">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gebrilo&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&text_color=434d58&langs_count=6">
+</picture>
 
 </div>
 
