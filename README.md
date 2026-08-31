@@ -90,7 +90,7 @@ A collection of mobile applications spanning event booking, daily remembrances, 
 
 ### Spendora&nbsp;&nbsp; `MOBILE` · `PRIVACY-FIRST`
 
-A local-only, privacy-first personal finance app built on the envelope budgeting system. Encrypted at rest with SQLCipher, biometric authentication, offline-first, and automatic CIB bank-message parsing — no account, no cloud sync, no telemetry.
+A local-only, privacy-first personal finance app built on the envelope budgeting system. Encrypted at rest with SQLCipher, biometric authentication, offline-first, and automatic bank-message parsing — no account, no cloud sync, no telemetry.
 
 [![Repo](https://img.shields.io/badge/GitHub-Spendora-181717?style=flat-square&logo=github)](https://github.com/Gebrilo/spendora)
 
